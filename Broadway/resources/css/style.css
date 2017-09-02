@@ -2,6 +2,27 @@ body{
   text-align: center;
   font-family: Helvetica
 }
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2  {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
 .banner{
   background-image: url("../images/banner.png");
 }
@@ -11,7 +32,7 @@ body{
   background-color: dimgray;
   text-align: left;
 }
-.banner:link{
+.banner a{
   font-size: 18px
   color: white;
 }
