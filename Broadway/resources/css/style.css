@@ -5,3 +5,13 @@ body{
 .banner{
   background-image: url("../images/banner.png");
 }
+#copyright{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.banner:link{
+  font-size: 18px
+  color: white;
+}
