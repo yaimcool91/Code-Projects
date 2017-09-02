@@ -25,6 +25,7 @@ p {
 }
 .banner{
   background-image: url("../images/banner.png");
+  background-repeat: no-repeat;
 }
 #copyright{
   font-size: 11px;
