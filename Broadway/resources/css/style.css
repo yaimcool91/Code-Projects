@@ -30,6 +30,7 @@ p {
 }
 .banner2{
   background-image: url("../images/banner.png");
+  width: 100%;
 }
 #copyright{
   font-size: 11px;
@@ -40,8 +41,9 @@ p {
 a {
   color: white;
   font-size: 18px;
+  word-spacing: 20px;
 }
 address {
   font-size: 14px;
-  font-weight: normal;
+  font-style: normal;
 }
