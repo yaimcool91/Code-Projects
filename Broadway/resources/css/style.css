@@ -25,7 +25,11 @@ p {
 }
 .banner{
   background-image: url("../images/banner.png");
+  background-size: contain;
   background-repeat: no-repeat;
+}
+.banner2{
+  background-image: url("../images/banner.png");
 }
 #copyright{
   font-size: 11px;
@@ -33,7 +37,11 @@ p {
   background-color: dimgray;
   text-align: left;
 }
-.banner a{
-  font-size: 18px
+a {
   color: white;
+  font-size: 18px;
+}
+address {
+  font-size: 14px;
+  font-weight: normal;
 }
